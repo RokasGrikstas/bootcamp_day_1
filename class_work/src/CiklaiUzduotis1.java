@@ -8,8 +8,6 @@ public class CiklaiUzduotis1 {
 
         }
 
-
-        private static void stest(int size, scanner sc)
-    }
+   
 
 }
